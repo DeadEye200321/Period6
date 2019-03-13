@@ -4,7 +4,7 @@
  * @author Jake Ciasca, Ethan David, Grant Forgues, Rhys Plassmann
  * @version 12/14/18
  */
-
+/*hi*/
 import java.util.Scanner;
 import javax.imageio.ImageIO;
 import java.awt.Color;
